@@ -1,4 +1,4 @@
 
-Adding functionality to the bar chart, remove and add bars to the chart considering the list of countries.
+Lab 3
 
-![Image alt](https://github.com/tamara0209/data_viz/blob/master/Lab%202%20-%20Interactive%20bar%20chart/Result.png)
+![Image alt](https://github.com/tamara0209/data_viz/blob/master/Lab%203%20-%20Bar%20chart%20with%20labels/lab3.png)
